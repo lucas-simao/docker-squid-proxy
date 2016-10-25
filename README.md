@@ -1,5 +1,10 @@
 # lucassimao/squid-proxy:3.5.12
 
+## To Create image:
+
+```bash
+docker build -t lucassimao/squid-proxy:3.5.12 .
+```
 
 ## To run this image, you need create folder's:
 
